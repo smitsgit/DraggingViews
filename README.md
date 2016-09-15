@@ -20,3 +20,7 @@ to see the dropped image there and rest of the boxes will assume there original 
 Images
 -------------
 ![device-2016-09-15-052557](https://cloud.githubusercontent.com/assets/11153931/18549320/a33a24d4-7b02-11e6-9f17-a8511ff0da70.png)
+
+Video
+------------
+![device-2016-09-15-053121](https://cloud.githubusercontent.com/assets/11153931/18549595/48ddf9fa-7b04-11e6-8c76-3fcad9c717bf.gif)
